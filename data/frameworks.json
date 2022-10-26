@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "price": 28,
+      "name": "Bootstrap"
+    },
+    {
+      "id": "2",
+      "price": 29,
+      "name": "Tailwind CSS"
+    },
+    {
+      "id": "3",
+      "price": 25,
+      "name": "Bulma"
+    },
+    {
+      "id": "4",
+      "price": 20,
+      "name": "Foundation"
+    },
+    {
+      "id": "5",
+      "price": 23,
+      "name": "UIkit"
+    },
+    {
+      "id": "6",
+      "price": 30,
+      "name": "Susy"
+    }
+  ]
