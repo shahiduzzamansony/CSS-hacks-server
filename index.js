@@ -8,7 +8,7 @@ app.use(cors());
 const frameworks = require('./data/frameworks.json')
 
 app.get('/', (req,res) => {
-    res.send('news api running');
+    res.send('news api running ok');
 });
 
 app.get('/frameworks',(req, res)=>[
