@@ -3,36 +3,48 @@
       "id": "1",
       "price": 28,
       "classes":50,
-      "name": "Bootstrap"
+      "name": "Bootstrap",
+      "details":"An initiative by Twitter, Bootstrap takes credit for introducing responsive design on a large scale. It was the first framework to promote the philosophy of “mobile-first.” No longer was designing for smaller screen sizes a separate project in itself; all you needed to do was include the relevant Bootstrap classes, and the design would automatically adjust for different screen sizes (well, almost).With Bootstrap, there’s almost no need to spend thought on tricky CSS positioning and browser incompatibilities. All you need to do write out the HTML, and then applying the appropriate CSS classes causes the responsiveness to come alive.",
+      "img_url":"https://getbootstrap.com/docs/5.2/assets/img/bootstrap-icons.png"
     },
     {
       "id": "2",
       "price": 29,
       "classes":40,
-      "name": "Tailwind CSS"
+      "name": "Tailwind CSS",
+      "details":"I remember the early days when Tailwind CSS was released. It barely made a soft thud, and the ecosystem gave it no attention; and rightly so, given that Tailwind was neither backed by a tech giant nor had the push of a massive marketing budget. Besides, with Tailwind, you didn’t get a Bootstrap-like experience, something that had (or maybe still is) become the norm.So, as I was saying, there was little to no impact made by Tailwind. But here and there, one by one, developers started liking and adopting the approach. I might be wrong, but I’d say somewhere in 2019, Tailwind exploded in popularity. It brought to Web development an unconventional approach and attention to some nifty tooling such as PurgeCSS.",
+      "img_url":"https://wp.5balloons.info/wp-content/uploads/2022/06/install-tailwindcss.png"
     },
     {
       "id": "3",
       "price": 25,
       "classes":35,
-      "name": "Bulma"
+      "name": "Bulma",
+      "details":"Bulma is a relatively new entrant to the battleground of CSS frameworks and has made a name for itself in a short time. Its attractiveness lies in a strict, CSS-only approach (there are no JavaScript components), and elegant defaults, which is something many developers with a good eye for design have a problem with when working with Bootstrap.Much of the momentum of Bulma comes from high rates of adoption with the Laravel (a PHP web framework, in case you didn’t know) community, which I’m sure is pretty much what helped Vue.js rise to the heights of popularity among JavaScript frameworks.",
+      "img_url":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200207185625/bul.png"
     },
     {
       "id": "4",
       "price": 20,
       "classes":50,
-      "name": "Foundation"
+      "name": "Foundation",
+      "details":" It’s technically wrong to say that Foundation is a CSS framework. I mean, it is, but it’s been built as a large and modular collection of tools that aims to solve almost all kinds of front-end problems. There are separate framework offerings for websites and emails, heavily optimized for their respective domains. Foundation also comes with a command-line interface (CLI), which will sound like music to the ears of developers used to working with Webpack or other module bundlers. Unlike Bootstrap, Foundation was built to give the front-end developer full control over their UIs. As a result, Foundation will feel bland and enormously complex to the newcomer. However, the reason is that Foundation doesn’t force any style language on you, but aims to be just what it is: an excellent CSS framework.",
+      "img_url":"https://www.webdesignerdepot.com/cdn-origin/uploads/2013/05/featured34.jpg"
     },
     {
       "id": "5",
       "price": 23,
       "classes":45,
-      "name": "UIkit"
+      "name": "UIkit",
+      "details":"The thing that comes to mind when thinking of UIkit is minimalism. Minimalism not in features (in fact, it offers perhaps the most features of all frameworks), but in design. If super-clean, elegant, non-whitespace-shy designs are your thing, UIkit has you covered.But is there a catch, you’re wondering. Yes, there is. Like Bootstrap, UIkit works with its JavaScript and while you can use jQuery for DOM manipulation, using a virtual DOM framework like React is impossible.Also, Uikit is a self-contained system, and you won’t be able to modify or extend it without putting in considerable effort.",
+      "img_url":"https://secureanycloud.com/wp-content/uploads/sites/33/2016/04/uikit_logo1.png"
     },
     {
       "id": "6",
       "price": 30,
       "classes":30,
-      "name": "Susy"
+      "name": "Susy",
+      "details":"Susy is a little-known framework at this point, but it’s a fascinating and refreshing idea. Another pure-layout framework, Susy does away with all predefined ideas of float, grid, Flexbox, tables, or anything else, and lets you compose the kind of layout you want. “Compose” is the keyword here, as Susy is meant for creating highly modular, staggering layouts with ultra-complex, unusual, and precise needs.I think that the code is pretty self-explanatory, though it’s not for those in a hurry. Susy makes perfect sense if you’re tired of all the bloat that modern frameworks impose on you, and you have layout needs that you know no ordinary framework can serve.",
+      "img_url":"https://img.stackshare.io/service/1854/New_Project__5_.png"
     }
   ]
